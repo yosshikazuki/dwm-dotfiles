@@ -1,0 +1,346 @@
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_OPACITY
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_FRAME_EXTENTS
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_STATE
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_NAME
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_PID
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_NAME
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_CLASS
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_ICON_NAME
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_TRANSIENT_FOR
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_WINDOW_ROLE
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_CLIENT_LEADER
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom WM_CLIENT_MACHINE
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_ACTIVE_WINDOW
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _COMPTON_SHADOW
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom COMPTON_VERSION
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _XROOTPMAP_ID
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom ESETROOT_PMAP_ID
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _XSETROOT_ID
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DESKTOP
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DOCK
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLBAR
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_MENU
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_UTILITY
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_SPLASH
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DIALOG
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NORMAL
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DROPDOWN_MENU
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_POPUP_MENU
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLTIP
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NOTIFICATION
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_COMBO
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DND
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_STATE
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_STATE_FULLSCREEN
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _NET_WM_BYPASS_COMPOSITOR
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom UTF8_STRING
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom C_STRING
+[ 2025年01月13日 14:57:54.167 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 14:57:54.167 get_atom ERROR ] Failed to get atom _GTK_FRAME_EXTENTS
+[ 2025年01月13日 14:57:54.167 c2_l_postprocess ERROR ] Failed to get atom for target "_GTK_FRAME_EXTENTS".
+[ 2025年01月13日 14:57:54.167 options_postprocess_c2_lists ERROR ] Post-processing of rules failed, some of your rules might not work
+[ 2025年01月13日 14:57:54.167 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 2025年01月13日 15:08:46.680 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 15:08:49.258 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_OPACITY
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_FRAME_EXTENTS
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_STATE
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_NAME
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_PID
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_NAME
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_CLASS
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_ICON_NAME
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_TRANSIENT_FOR
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_WINDOW_ROLE
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_CLIENT_LEADER
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom WM_CLIENT_MACHINE
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_ACTIVE_WINDOW
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _COMPTON_SHADOW
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom COMPTON_VERSION
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _XROOTPMAP_ID
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom ESETROOT_PMAP_ID
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _XSETROOT_ID
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DESKTOP
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DOCK
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLBAR
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_MENU
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_UTILITY
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_SPLASH
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DIALOG
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NORMAL
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DROPDOWN_MENU
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_POPUP_MENU
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLTIP
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NOTIFICATION
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_COMBO
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DND
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_STATE
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_STATE_FULLSCREEN
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _NET_WM_BYPASS_COMPOSITOR
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom UTF8_STRING
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom C_STRING
+[ 2025年01月13日 15:12:11.109 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:12:11.109 get_atom ERROR ] Failed to get atom _GTK_FRAME_EXTENTS
+[ 2025年01月13日 15:12:11.109 c2_l_postprocess ERROR ] Failed to get atom for target "_GTK_FRAME_EXTENTS".
+[ 2025年01月13日 15:12:11.109 options_postprocess_c2_lists ERROR ] Post-processing of rules failed, some of your rules might not work
+[ 2025年01月13日 15:12:11.109 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_OPACITY
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_FRAME_EXTENTS
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_STATE
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_WM_NAME
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_WM_PID
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_NAME
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_CLASS
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_ICON_NAME
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_TRANSIENT_FOR
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_WINDOW_ROLE
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_CLIENT_LEADER
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom WM_CLIENT_MACHINE
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_ACTIVE_WINDOW
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _COMPTON_SHADOW
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom COMPTON_VERSION
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE
+[ 2025年01月13日 15:18:14.665 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.665 get_atom ERROR ] Failed to get atom _XROOTPMAP_ID
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom ESETROOT_PMAP_ID
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _XSETROOT_ID
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DESKTOP
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DOCK
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLBAR
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_MENU
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_UTILITY
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_SPLASH
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DIALOG
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NORMAL
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DROPDOWN_MENU
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_POPUP_MENU
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_TOOLTIP
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_NOTIFICATION
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_COMBO
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_WINDOW_TYPE_DND
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_STATE
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_STATE_FULLSCREEN
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _NET_WM_BYPASS_COMPOSITOR
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom UTF8_STRING
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom C_STRING
+[ 2025年01月13日 15:18:14.666 atom_getter ERROR ] Failed to intern atoms
+[ 2025年01月13日 15:18:14.666 get_atom ERROR ] Failed to get atom _GTK_FRAME_EXTENTS
+[ 2025年01月13日 15:18:14.666 c2_l_postprocess ERROR ] Failed to get atom for target "_GTK_FRAME_EXTENTS".
+[ 2025年01月13日 15:18:14.666 options_postprocess_c2_lists ERROR ] Post-processing of rules failed, some of your rules might not work
+[ 2025年01月13日 15:18:14.666 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 2025年01月13日 15:24:58.174 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 17:54:34.348 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 17:54:40.082 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 17:58:33.414 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 17:58:35.788 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 17:58:45.439 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:00:42.817 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:00:50.198 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:00:56.100 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:00:57.419 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:02:15.966 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:12:38.102 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:15:01.398 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:15:02.679 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:15:12.299 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:23:59.806 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:29:41.003 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:29:42.183 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:29:45.371 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:33:17.153 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:33:22.688 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:11.210 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:19.142 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:19.853 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:22.019 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:22.956 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:23.878 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:24.692 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:26.066 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:34:32.442 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:16.094 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:16.096 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:24.479 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:26.129 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:27.864 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:43.619 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:36:47.961 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:42:24.369 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:42:26.468 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:42:27.266 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:42:28.423 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:42:58.353 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:43:02.477 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:43:18.077 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:43:21.269 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:43:25.609 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:43:27.809 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:47:46.461 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:47:49.598 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:49:26.773 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:51:39.178 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:51:40.893 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:53:23.026 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:53:24.086 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:59:42.633 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:59:44.879 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:59:48.961 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 18:59:50.119 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 19:00:44.479 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 19:00:45.515 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 19:00:46.915 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 19:00:47.746 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:38:18.900 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:39:08.893 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:40:21.446 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:40:23.560 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:40:27.852 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:40:51.448 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:40:53.055 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月13日 23:41:10.092 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 00:19:42.256 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 00:19:43.456 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 00:19:59.981 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 00:20:15.201 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 06:36:40.653 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:34:59.852 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:35:02.337 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:35:03.289 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:35:04.400 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:36:54.073 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:40:52.351 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:59:21.870 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 07:59:37.578 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:18:21.603 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:19:39.634 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:19:46.165 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:19:59.680 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:20:31.631 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:21:05.492 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:21:15.881 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:21:47.247 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:22:10.427 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:22:28.636 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:22:59.719 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:24:29.755 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:24:46.588 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:25:37.066 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:25:44.841 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:27:17.640 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:27:56.440 win_advance_animation ERROR ] Failed to run animation script: 1
+[ 2025年01月14日 08:29:00.630 win_advance_animation ERROR ] Failed to run animation script: 1
