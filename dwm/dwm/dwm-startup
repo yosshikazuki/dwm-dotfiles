@@ -1,0 +1,9 @@
+#!/bin/bash
+xrandr --output Virtual-1 --mode 2560x1600
+feh --bg-scale /usr/share/wallpapers/gruvbox/gruvbox_minimal_space.png
+/usr/bin/vmware-user > /dev/null 2>&1 & disown
+export _JAVA_AWT_WM_NONREPARENTING=1
+slstatus &
+clipmenud &
+picom --backend xrender -b > /dev/null 2>&1 &
+exec dwm
