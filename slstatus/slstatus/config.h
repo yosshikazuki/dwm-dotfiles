@@ -8,7 +8,7 @@ static const char unknown_str[] = "";
 
 /* maximum output string length */
 #define MAXLEN 2048
-#define KEYBOARD "sh -c 'if [ $(fcitx-remote) -eq 1 ]; then echo 半角英数字; elif [ $(fcitx-remote) -eq 2 ]; then echo ひらがな; else echo ""; fi'"
+#define KEYBOARD "sh -c 'if [ $(fcitx-remote) -eq 1 ]; then echo ローマ字; elif [ $(fcitx-remote) -eq 2 ]; then echo ひらがな; else echo ""; fi'"
 #define VOLUME "sh -c 'amixer get Master | grep -o '[0-9]*%' | head -n 1'"
 
 /*
@@ -67,9 +67,9 @@ static const char unknown_str[] = "";
  */
 static const struct arg args[] = {
 	/* function format          argument */
-	{ ipv4,     "[ 󰖩   ens160: %s ",         "ens160"},
-	{ ipv4,     " tun0: %s ] ",                 "tun0"},
-	{ run_command, "[     %s ] ",             KEYBOARD},
-	{ run_command, "[ 󱄠    %s ] ",               VOLUME},
-	{ datetime, "%s",           "[   %a, %b %e, %l:%M %p ]"},
+	{ ipv4,     "^c#689d6a^[ ens160:%s ",         "ens160"},
+	{ ipv4,     "tun0:%s]",                 "tun0"},
+	{ run_command, "^c#b8bb26^[ %s]",             KEYBOARD},
+	{ run_command, "^c#d3869b^[ %s]",               VOLUME},
+	{ datetime, "^c#ebdbb2^%s",           "[ %a,%b%e,%l:%M%p]"},
 };
